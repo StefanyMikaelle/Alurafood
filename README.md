@@ -3,6 +3,12 @@
 O Alura Food é um projeto desenvolvido durante o curso de arquitetura de microsserviços da Alura.
 Ele se propõe a transformar um sistema monolítico em uma arquitetura de microsserviços para melhorar a escalabilidade e a manutenção do sistema.
 
+[![microsservicos.png](https://i.postimg.cc/dVkd0TZX/microsservicos.png)](https://postimg.cc/gxprSjDq)
+[![Microservi-os.png](https://i.postimg.cc/vmt418P5/Microservi-os.png)](https://postimg.cc/rdzV3T2p)
+
+- Video no meu canal
+<iframe width="560" height="315" src="https://www.youtube.com/embed/32iWKuWLqPg?si=FsKRfQRYN53fVP23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Visão Geral
 
 O projeto atualmente está focado na decomposição do monolito em microsserviços. Inicia-se com a criação do microsserviço de pagamento, utilizando um banco de dados MySQL para armazenamento de dados.
@@ -41,3 +47,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 - Microsserviços na prática: implementando com Java e Spring
 https://cursos.alura.com.br/course/microsservicos-implementando-java-spring/task/107184
+
+- Video no meu canal
+<iframe width="560" height="315" src="https://www.youtube.com/embed/32iWKuWLqPg?si=FsKRfQRYN53fVP23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
