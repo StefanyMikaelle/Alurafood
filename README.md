@@ -3,11 +3,12 @@
 O Alura Food é um projeto desenvolvido durante o curso de arquitetura de microsserviços da Alura.
 Ele se propõe a transformar um sistema monolítico em uma arquitetura de microsserviços para melhorar a escalabilidade e a manutenção do sistema.
 
+- 
 [![microsservicos.png](https://i.postimg.cc/dVkd0TZX/microsservicos.png)](https://postimg.cc/gxprSjDq)
-[![Microservi-os.png](https://i.postimg.cc/vmt418P5/Microservi-os.png)](https://postimg.cc/rdzV3T2p)
 
-- Video no meu canal
-<iframe width="560" height="315" src="https://www.youtube.com/embed/32iWKuWLqPg?si=FsKRfQRYN53fVP23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[![Video no meu canal](https://i.postimg.cc/vmt418P5/Microservi-os.png)](https://www.youtube.com/watch?v=<ID_DO_VIDEO>](https://www.youtube.com/watch?v=32iWKuWLqPg&t=880s)
+
 
 ## Visão Geral
 
