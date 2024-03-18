@@ -52,5 +52,3 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 - Microsserviços na prática: implementando com Java e Spring
 https://cursos.alura.com.br/course/microsservicos-implementando-java-spring/task/107184
 
-- Video no meu canal
-<iframe width="560" height="315" src="https://www.youtube.com/embed/32iWKuWLqPg?si=FsKRfQRYN53fVP23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
